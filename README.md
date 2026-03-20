@@ -1,4 +1,4 @@
-## HelloWorldDjango
+## django_helloWorld
 
 This project shows you a 'Hello World' message in the principal page.
 
